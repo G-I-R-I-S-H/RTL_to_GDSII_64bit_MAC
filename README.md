@@ -80,7 +80,3 @@ placement and routing achieved good congestion control and timing closure.
 - Integration into SoC for DSP and AI applications
 - Machine-learning-assisted physical design optimization
 
----
-
-School of Electronics and Communication Engineering  
-KLE Technological University, Hubballi
