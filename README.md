@@ -39,9 +39,13 @@ delay compared to conventional multiplication techniques.
 7. Routing
 8. Physical verification (DRC and LVS)
 9. Post-layout timing analysis
+
 10. Final GDSII generation
 ![RTL to GDSII Flow](images/flow.png)
 
+
+
+10. Final GDSII generation – ![RTL-to-GDSII Flow](./flow.png)
 
 ---
 
