@@ -40,7 +40,8 @@ delay compared to conventional multiplication techniques.
 8. Physical verification (DRC and LVS)
 9. Post-layout timing analysis
 10. Final GDSII generation
-![RTL-to-GDSII Flow](images/flow.png)
+![RTL to GDSII Flow](images/flow.png)
+
 
 ---
 
