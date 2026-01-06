@@ -44,8 +44,9 @@ delay compared to conventional multiplication techniques.
 ---
 
 <p align="center">
-  <img src="images/flow.png" width="700">
+  <img src="images/flow.png" height="350">
 </p>
+
 
 ---
 
